@@ -1,2 +1,1 @@
-# object-detection-by-color
-object-detection-by-color
+# OpenCV Liblary Simple Algorithm
